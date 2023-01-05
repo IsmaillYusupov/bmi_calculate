@@ -16,7 +16,7 @@ class HomeUi extends StatefulWidget {
 }
 
 class _HomeUiState extends State<HomeUi> {
-  double sliderHeight = 80;
+  double sliderHeight = 60;
   int weight = 50;
   int age = 25;
   GenderEnum male = GenderEnum.male;
